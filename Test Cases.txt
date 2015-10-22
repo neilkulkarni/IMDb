@@ -1,0 +1,36 @@
+IMDb Data Collection
+
+Test #1
+
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 18789.0
+Average difference between guessed and actual ratings: 0.93945
+
+Test #2
+
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 18770.0
+Average difference between guessed and actual ratings: 0.9385
+
+Test #3
+
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 18860.0
+Average difference between guessed and actual ratings: 0.943
+
+Test #4
+
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 18669.0
+Average difference between guessed and actual ratings: 0.93345
+
+Test #5
+
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 18624.0
+Average difference between guessed and actual ratings: 0.9312
